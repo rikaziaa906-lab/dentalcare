@@ -1,0 +1,9 @@
+{
+  "name": "GigiBerseri - Asuhan Kesehatan Gigi & Mulut",
+  "description": "Sistem informasi asuhan kesehatan gigi dan mulut individu berbasis standar WHO dan Kemenkes RI dengan tampilan modern dan profesional.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
